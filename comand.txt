@@ -1,6 +1,8 @@
 # one time each project to start git
 git init
 git add  .
+# every time you commit
+
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/shimulpervez05/My-First-Web.git
