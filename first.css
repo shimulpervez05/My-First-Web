@@ -1,9 +1,10 @@
 .intro {
     color: blueviolet;
+    padding-left: px;
     
 }
 #hero{
-    padding-left: 25px ;
+    padding-left: 35px ;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 img{
